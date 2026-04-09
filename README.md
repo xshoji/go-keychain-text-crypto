@@ -2,6 +2,9 @@
 
 `go-keychain-text-crypto` is a minimal macOS sample that encrypts free text with Go, stores the data-encryption key in Keychain, and requires `LAContext` authentication before decrypting it.
 
+<img width="802" height="465" alt="image" src="https://github.com/user-attachments/assets/37f8aa98-a359-4def-a5d5-44de1854b55e" />
+
+
 It is intentionally small. The goal is to show a clear end-to-end flow for:
 
 - file encryption with `XChaCha20-Poly1305`
