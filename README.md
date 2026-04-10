@@ -4,6 +4,9 @@
 
 <img width="802" height="465" alt="image" src="https://github.com/user-attachments/assets/37f8aa98-a359-4def-a5d5-44de1854b55e" />
 
+[demo.mp4](https://github.com/user-attachments/assets/09768efb-d993-4100-8834-e9261b12cca9)
+
+
 
 It is intentionally small. The goal is to show a clear end-to-end flow for:
 
